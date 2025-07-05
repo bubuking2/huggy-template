@@ -1,0 +1,11 @@
+Model Information:
+* title:	Huggy Wuggy Animations Pack 1
+* source:	https://sketchfab.com/3d-models/huggy-wuggy-animations-pack-1-88b065ebd33b445484fd4af25b04ccc8
+* author:	Quazz (https://sketchfab.com/stumbleguys0)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Huggy Wuggy Animations Pack 1" (https://sketchfab.com/3d-models/huggy-wuggy-animations-pack-1-88b065ebd33b445484fd4af25b04ccc8) by Quazz (https://sketchfab.com/stumbleguys0) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
